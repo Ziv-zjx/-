@@ -11,7 +11,7 @@ namespace Boxing
         static void Main(string[] args)
         {
 
-            
+
             GetBoxing();
             GetGeneric();
             //Thread t1 = new Thread(GetGeneric);
